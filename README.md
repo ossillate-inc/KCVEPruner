@@ -5,7 +5,7 @@ Pruning Linux Kernel CVEs based on code reachability analysis
 
 *NOTE* hardcoded to fetch for last 2196 days
 ```
-python3 fetch_all_cves.py
+python3 fetch_cves.py
 ```
 
 # Filter CVEs based on build-time info
