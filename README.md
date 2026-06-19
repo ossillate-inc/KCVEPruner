@@ -14,6 +14,6 @@ python3 fetch_cves.py
 python3 measure.py <path-to-kernel-CVEs.csv> --kernel-source <path-to-linux-source> --kernel-build <path-to-linux-build> --output-dir cve_compiled_results
 ```
 
-# Feedback and contrributions welcome
+# Feedback and contributions welcome
 
 This is a work in progress and we welcome any feedback and code contributions.
